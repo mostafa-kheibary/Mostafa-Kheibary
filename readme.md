@@ -3,7 +3,7 @@
 
 ### I'm junior programmer!!
 
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning js and react
 
 ### Connect with me:
 [<img align="left" alt="mostafa.kheibary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/mostafa.kheibary/)
